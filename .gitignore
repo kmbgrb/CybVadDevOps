@@ -1,0 +1,8 @@
+aks/terraform.tfstate
+aks/terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform
+aks/.ssh
+aks/.terraform
+
